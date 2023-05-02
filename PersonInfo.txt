@@ -5,8 +5,8 @@
     "app_secret": "1e0564070e504874812e05909e292167",
     # 模板消息id
     "template_id": "quEjnfVefAio_24zQD5J1-QhRTDdrVVOntbo4m73uIA",
-    # 接收公众号消息的微信号,例如["wx1", "wx2"] 小赵的id: o02h76Hcq9Br63N1RvLDpOU09-58
-    "user": ["ozDpi5-ODjdHHRSdKBpmJ4fyTrTw"],
+    # 接收公众号消息的微信号,例如["wx1", "wx2"]
+    "user": ["ozDpi5-ODjdHHRSdKBpmJ4fyTrTw","ozDpi57KEXaIcjwV037ZvEK_Z10E"],
 
     # 和风天气apikey
     "weatherapi_key": "381c001a727748d39427651ccab7603d",
