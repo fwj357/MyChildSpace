@@ -2,7 +2,7 @@
     # 公众号appId
     "app_id": "wx558944fbe910362a",
     # 公众号appSecret
-    "app_secret": "2a98598d7f3e9b99975bd527691c3b73",
+    "app_secret": "1e0564070e504874812e05909e292167",
     # 模板消息id
     "template_id": "HAPpBJPULIMGg3gYzrYotG8sa7fbOWvinYZXp1GRLTs",
     # 接收公众号消息的微信号,例如["wx1", "wx2"] 小赵的id: o02h76Hcq9Br63N1RvLDpOU09-58
