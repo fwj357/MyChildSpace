@@ -6,7 +6,7 @@
     # 模板消息id
     "template_id": "HAPpBJPULIMGg3gYzrYotG8sa7fbOWvinYZXp1GRLTs",
     # 接收公众号消息的微信号,例如["wx1", "wx2"] 小赵的id: o02h76Hcq9Br63N1RvLDpOU09-58
-    "user": ["ozDpi5-ODjdHHRSdKBpmJ4fyTrTw","ozDpi57KEXaIcjwV037ZvEK_Z10E"],
+    "user": ["ozDpi5-ODjdHHRSdKBpmJ4fyTrTw"],
 
     # 和风天气apikey
     "weatherapi_key": "381c001a727748d39427651ccab7603d",
@@ -15,5 +15,5 @@
     # 名字|生日(农历生日)
     "birthday_info": {"name": "小郭", "birthday": "2002-07-11"},
     # 在一起的日子,公历
-    "love_date": "2022-08-26",
+    "love_date": "2022-08-26"
 }
