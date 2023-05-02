@@ -124,7 +124,7 @@ if __name__ == "__main__":
 
     # 伪装浏览器,防反爬虫技术
     newhead = {
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70"}
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"}
     # 每日一句情话
     Words = ['谁也不知道下一秒会发生什么，但是我能确信，在上一秒这一秒下一秒，我还是在喜欢你',
              '你身上有我余生的味道', '在我贫瘠的土地上你是我最后的玫瑰。', '在所有物是人非的景色里，我最喜欢你。', '你是今天这么漂亮，还是每天都这么漂亮啊!',
